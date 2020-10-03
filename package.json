@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "dev":"next",
-   "build":"next build",
-   "start":"next start"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
     "next": "^9.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
